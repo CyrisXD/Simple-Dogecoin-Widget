@@ -13,3 +13,7 @@ I'm no designer, but here is a simple Dogecoin wallet address widget made with C
 
 <h2>Like it? I also accept Doge Tips</h2>
 <h3>D8JvzhM9d1x2q7feWJqESZxvGt9nKDsswj</h3>
+
+
+<h2>Other versions</h2>
+[Simple Reddcoin Widget](https://github.com/CyrisXD/Simple-Reddcoin-Widget)
